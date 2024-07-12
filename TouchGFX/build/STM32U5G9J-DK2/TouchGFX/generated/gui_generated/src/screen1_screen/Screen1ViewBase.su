@@ -1,0 +1,134 @@
+Drawable.hpp:121:18:virtual void touchgfx::Drawable::invalidateContent() const	0	static
+Drawable.hpp:147:23:virtual touchgfx::Drawable* touchgfx::Drawable::getFirstChild()	0	static
+Drawable.hpp:315:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+Drawable.hpp:327:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+Drawable.hpp:356:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+Drawable.hpp:368:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+Drawable.hpp:378:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+Drawable.hpp:389:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+Drawable.hpp:401:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+Drawable.hpp:490:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+Drawable.hpp:501:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+Drawable.hpp:588:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+Drawable.hpp:703:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+Widget.hpp:45:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+Screen.hpp:93:18:virtual void touchgfx::Screen::setupScreen()	0	static
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:115:18:virtual void touchgfx::Screen::tearDownScreen()	0	static
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+AbstractPainter.hpp:61:34:virtual touchgfx::HAL::RenderingMethod touchgfx::AbstractPainter::getRenderingMethod() const	0	static
+AbstractPainter.hpp:78:18:virtual bool touchgfx::AbstractPainter::setup(const touchgfx::Rect&) const	0	static
+AbstractPainter.hpp:90:18:virtual void touchgfx::AbstractPainter::tearDown() const	0	static
+CanvasWidget.hpp:66:18:virtual void touchgfx::CanvasWidget::setAlpha(uint8_t)	0	static
+CanvasWidget.hpp:72:21:virtual uint8_t touchgfx::CanvasWidget::getAlpha() const	0	static
+CanvasWidget.hpp:134:18:virtual touchgfx::Rect touchgfx::CanvasWidget::getSolidRect() const	0	static
+TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+TextArea.hpp:48:18:virtual void touchgfx::TextArea::setWidth(int16_t)	32	static
+TextArea.hpp:54:18:virtual void touchgfx::TextArea::setHeight(int16_t)	32	static
+TextArea.hpp:60:18:virtual touchgfx::Rect touchgfx::TextArea::getSolidRect() const	0	static
+TextArea.hpp:89:18:virtual void touchgfx::TextArea::setAlpha(uint8_t)	0	static
+TextArea.hpp:127:18:virtual void touchgfx::TextArea::setXBaselineY(int16_t, int16_t)	16	static
+TextArea.hpp:403:41:virtual const UnicodeChar* touchgfx::TextArea::getWildcard2() const	0	static
+TextAreaWithWildcard.hpp:43:18:virtual void touchgfx::TextAreaWithWildcardBase::invalidateContent() const	8	static
+TextAreaWithWildcard.hpp:84:41:virtual const UnicodeChar* touchgfx::TextAreaWithOneWildcard::getWildcard1() const	0	static
+Screen1ViewBase.hpp:30:18:virtual void Screen1ViewBase::stepHL1()	0	static
+Screen1ViewBase.hpp:34:18:virtual void Screen1ViewBase::stepHL2()	0	static
+Screen1ViewBase.hpp:38:18:virtual void Screen1ViewBase::stepHL3()	0	static
+Screen1ViewBase.hpp:42:18:virtual void Screen1ViewBase::stepHL4()	0	static
+Screen1ViewBase.hpp:46:18:virtual void Screen1ViewBase::stepHL5()	0	static
+Screen1ViewBase.hpp:50:18:virtual void Screen1ViewBase::stepHL6()	0	static
+Screen1ViewBase.hpp:54:18:virtual void Screen1ViewBase::stepHL7()	0	static
+Screen1ViewBase.hpp:58:18:virtual void Screen1ViewBase::stepHL8()	0	static
+Screen1ViewBase.hpp:62:18:virtual void Screen1ViewBase::tmpChange(int)	0	static
+Screen1ViewBase.hpp:66:18:virtual void Screen1ViewBase::stepHL9()	0	static
+Screen1ViewBase.hpp:70:18:virtual void Screen1ViewBase::stepHL10()	0	static
+Screen1ViewBase.hpp:74:18:virtual void Screen1ViewBase::stepHL11()	0	static
+Screen1ViewBase.hpp:78:18:virtual void Screen1ViewBase::stepHL12()	0	static
+Screen1ViewBase.hpp:82:18:virtual void Screen1ViewBase::stepHL13()	0	static
+Screen1ViewBase.hpp:86:18:virtual void Screen1ViewBase::stepHL14()	0	static
+Screen1ViewBase.hpp:90:18:virtual void Screen1ViewBase::stepHL15()	0	static
+Screen1ViewBase.hpp:94:18:virtual void Screen1ViewBase::stepHL16()	0	static
+Screen1ViewBase.hpp:98:18:virtual void Screen1ViewBase::stepHL1_2()	0	static
+Screen1ViewBase.hpp:102:18:virtual void Screen1ViewBase::stepHL2_2()	0	static
+Screen1ViewBase.hpp:106:18:virtual void Screen1ViewBase::stepHL3_2()	0	static
+Screen1ViewBase.hpp:110:18:virtual void Screen1ViewBase::stepHL4_2()	0	static
+Screen1ViewBase.hpp:114:18:virtual void Screen1ViewBase::stepHL5_2()	0	static
+Screen1ViewBase.hpp:118:18:virtual void Screen1ViewBase::stepHL6_2()	0	static
+Screen1ViewBase.hpp:122:18:virtual void Screen1ViewBase::stepHL7_2()	0	static
+Screen1ViewBase.hpp:126:18:virtual void Screen1ViewBase::stepHL8_2()	0	static
+Screen1ViewBase.hpp:130:18:virtual void Screen1ViewBase::stepHL9_2()	0	static
+Screen1ViewBase.hpp:134:18:virtual void Screen1ViewBase::stepHL10_2()	0	static
+Screen1ViewBase.hpp:138:18:virtual void Screen1ViewBase::stepHL11_2()	0	static
+Screen1ViewBase.hpp:142:18:virtual void Screen1ViewBase::stepHL12_2()	0	static
+Screen1ViewBase.hpp:146:18:virtual void Screen1ViewBase::stepHL13_2()	0	static
+Screen1ViewBase.hpp:150:18:virtual void Screen1ViewBase::stepHL14_2()	0	static
+Screen1ViewBase.hpp:154:18:virtual void Screen1ViewBase::stepHL15_2()	0	static
+Screen1ViewBase.hpp:158:18:virtual void Screen1ViewBase::stepHL16_2()	0	static
+Screen1ViewBase.hpp:162:18:virtual void Screen1ViewBase::stepHL1_3()	0	static
+Screen1ViewBase.hpp:166:18:virtual void Screen1ViewBase::stepHL2_3()	0	static
+Screen1ViewBase.hpp:170:18:virtual void Screen1ViewBase::stepHL3_3()	0	static
+Screen1ViewBase.hpp:174:18:virtual void Screen1ViewBase::stepHL4_3()	0	static
+Screen1ViewBase.hpp:178:18:virtual void Screen1ViewBase::stepHL5_3()	0	static
+Screen1ViewBase.hpp:182:18:virtual void Screen1ViewBase::stepHL6_3()	0	static
+Screen1ViewBase.hpp:186:18:virtual void Screen1ViewBase::stepHL7_3()	0	static
+Screen1ViewBase.hpp:190:18:virtual void Screen1ViewBase::stepHL8_3()	0	static
+Screen1ViewBase.hpp:194:18:virtual void Screen1ViewBase::stepHL9_3()	0	static
+Screen1ViewBase.hpp:198:18:virtual void Screen1ViewBase::stepHL10_3()	0	static
+Screen1ViewBase.hpp:202:18:virtual void Screen1ViewBase::stepHL11_3()	0	static
+Screen1ViewBase.hpp:206:18:virtual void Screen1ViewBase::stepHL12_3()	0	static
+Screen1ViewBase.hpp:210:18:virtual void Screen1ViewBase::stepHL13_3()	0	static
+Screen1ViewBase.hpp:214:18:virtual void Screen1ViewBase::stepHL14_3()	0	static
+Screen1ViewBase.hpp:218:18:virtual void Screen1ViewBase::stepHL15_3()	0	static
+Screen1ViewBase.hpp:222:18:virtual void Screen1ViewBase::stepHL16_3()	0	static
+Screen1ViewBase.hpp:226:18:virtual void Screen1ViewBase::stepHL1_4()	0	static
+Screen1ViewBase.hpp:230:18:virtual void Screen1ViewBase::stepHL2_4()	0	static
+Screen1ViewBase.hpp:234:18:virtual void Screen1ViewBase::stepHL3_4()	0	static
+Screen1ViewBase.hpp:238:18:virtual void Screen1ViewBase::stepHL4_4()	0	static
+Screen1ViewBase.hpp:242:18:virtual void Screen1ViewBase::stepHL5_4()	0	static
+Screen1ViewBase.hpp:246:18:virtual void Screen1ViewBase::stepHL6_4()	0	static
+Screen1ViewBase.hpp:250:18:virtual void Screen1ViewBase::stepHL7_4()	0	static
+Screen1ViewBase.hpp:254:18:virtual void Screen1ViewBase::stepHL8_4()	0	static
+Screen1ViewBase.hpp:258:18:virtual void Screen1ViewBase::stepHL9_4()	0	static
+Screen1ViewBase.hpp:262:18:virtual void Screen1ViewBase::stepHL10_4()	0	static
+Screen1ViewBase.hpp:266:18:virtual void Screen1ViewBase::stepHL11_4()	0	static
+Screen1ViewBase.hpp:270:18:virtual void Screen1ViewBase::stepHL12_4()	0	static
+Screen1ViewBase.hpp:274:18:virtual void Screen1ViewBase::stepHL13_4()	0	static
+Screen1ViewBase.hpp:278:18:virtual void Screen1ViewBase::stepHL14_4()	0	static
+Screen1ViewBase.hpp:282:18:virtual void Screen1ViewBase::stepHL15_4()	0	static
+Screen1ViewBase.hpp:286:18:virtual void Screen1ViewBase::stepHL16_4()	0	static
+View.hpp:36:7:touchgfx::View<Screen1Presenter>::~View()	0	static
+Screen1ViewBase.cpp:543:6:virtual void Screen1ViewBase::setupScreen()	0	static
+Screen1ViewBase.cpp:548:6:void Screen1ViewBase::buttonCallbackHandler(const touchgfx::AbstractButton&)	16	static
+Callback.hpp:290:8:touchgfx::Callback<Screen1ViewBase, const touchgfx::Slider&, int>::~Callback()	0	static
+Callback.hpp:357:8:touchgfx::Callback<Screen1ViewBase, const touchgfx::AbstractButton&>::~Callback()	0	static
+MoveAnimator.hpp:37:7:touchgfx::MoveAnimator<touchgfx::Circle>::~MoveAnimator()	0	static
+TextAreaWithWildcard.hpp:62:7:touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	0	static
+Callback.hpp:318:18:void touchgfx::Callback<dest_type, T1, T2, void>::execute(T1, T2) [with dest_type = Screen1ViewBase; T1 = const touchgfx::Slider&; T2 = int]	12	static
+Callback.hpp:328:18:bool touchgfx::Callback<dest_type, T1, T2, void>::isValid() const [with dest_type = Screen1ViewBase; T1 = const touchgfx::Slider&; T2 = int]	0	static
+Callback.hpp:386:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = Screen1ViewBase; T1 = const touchgfx::AbstractButton&]	8	static
+Callback.hpp:396:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = Screen1ViewBase; T1 = const touchgfx::AbstractButton&]	0	static
+MoveAnimator.hpp:88:18:void touchgfx::MoveAnimator<T>::setMoveAnimationDelay(uint16_t) [with T = touchgfx::Circle]	0	static
+MoveAnimator.hpp:100:22:uint16_t touchgfx::MoveAnimator<T>::getMoveAnimationDelay() const [with T = touchgfx::Circle]	0	static
+TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+View.hpp:36:7:virtual touchgfx::View<Screen1Presenter>::~View()	8	static
+TextAreaWithWildcard.hpp:62:7:virtual touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	8	static
+MoveAnimator.hpp:37:7:virtual touchgfx::MoveAnimator<touchgfx::Circle>::~MoveAnimator()	8	static
+Callback.hpp:357:8:virtual touchgfx::Callback<Screen1ViewBase, const touchgfx::AbstractButton&>::~Callback()	8	static
+Callback.hpp:290:8:virtual touchgfx::Callback<Screen1ViewBase, const touchgfx::Slider&, int>::~Callback()	8	static
+TextArea.hpp:111:18:virtual void touchgfx::TextArea::setBaselineY(int16_t)	16	static
+Circle.hpp:444:18:virtual touchgfx::Rect touchgfx::Circle::getMinimalRect() const	8	static
+Screen1ViewBase.cpp:538:1:Screen1ViewBase::~Screen1ViewBase()	8	static
+Screen1ViewBase.cpp:538:1:virtual Screen1ViewBase::~Screen1ViewBase()	8	static
+Screen1ViewBase.cpp:1000:6:void Screen1ViewBase::sliderValueChangedCallbackHandler(const touchgfx::Slider&, int)	4	static
+MoveAnimator.hpp:169:18:void touchgfx::MoveAnimator<T>::handleTickEvent() [with T = touchgfx::Circle]	24	static
+TextAreaWithWildcard.hpp:49:36:virtual touchgfx::TextArea::BoundingArea touchgfx::TextAreaWithWildcardBase::calculateBoundingArea() const	0	static
+Drawable.hpp:48:5:touchgfx::Drawable::Drawable()	0	static
+Drawable.hpp:343:10:void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+Drawable.hpp:233:10:void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+AbstractPainterRGB565.hpp:41:5:touchgfx::AbstractPainterRGB565::AbstractPainterRGB565()	16	static
+PainterRGB565.hpp:42:5:touchgfx::PainterRGB565::PainterRGB565(touchgfx::colortype)	16	static
+ToggleButton.hpp:35:18:virtual void touchgfx::ToggleButton::setBitmaps(const touchgfx::Bitmap&, const touchgfx::Bitmap&)	0	static
+ToggleButton.hpp:32:7:touchgfx::ToggleButton::ToggleButton()	8	static
+Line.hpp:248:10:void touchgfx::Line::setLineWidth(T) [with T = int]	0	static
+Screen1ViewBase.cpp:10:1:Screen1ViewBase::Screen1ViewBase()	488	static

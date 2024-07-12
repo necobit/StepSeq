@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.23.2">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_F1G2" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Play/Stop</Translation>
+      </Text>
+      <Text Id="__SingleUse_5EGR" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Clear</Translation>
+      </Text>
+      <Text Id="__SingleUse_BLKD" Alignment="Left" TypographyId="BPM">
+        <Translation Language="GB">120</Translation>
+      </Text>
+      <Text Id="__SingleUse_KL3F" Alignment="Right" TypographyId="BPM">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="00-99" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="00-99" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="BPM" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="30-40000" />
+  </Typographies>
+</TextDatabase>

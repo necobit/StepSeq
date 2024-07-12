@@ -1,0 +1,1902 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Name": "Screen1",
+        "CanvasBufferSize": 12000,
+        "Components": [
+          {
+            "Type": "Line",
+            "Name": "line1",
+            "X": 1,
+            "Y": 228,
+            "Width": 800,
+            "Height": 10,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "StartX": 5.0,
+            "StartY": 5.0,
+            "EndX": 795.0,
+            "EndY": 5.0,
+            "LineWidth": 10.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "Line",
+            "Name": "line2",
+            "X": -1,
+            "Y": 284,
+            "Width": 800,
+            "Height": 10,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "StartX": 5.0,
+            "StartY": 5.0,
+            "EndX": 795.0,
+            "EndY": 5.0,
+            "LineWidth": 10.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "Line",
+            "Name": "line3",
+            "X": 1,
+            "Y": 341,
+            "Width": 800,
+            "Height": 10,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "StartX": 5.0,
+            "StartY": 5.0,
+            "EndX": 795.0,
+            "EndY": 5.0,
+            "LineWidth": 10.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "Line",
+            "Name": "line4",
+            "X": -1,
+            "Y": 398,
+            "Width": 800,
+            "Height": 10,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "StartX": 5.0,
+            "StartY": 5.0,
+            "EndX": 795.0,
+            "EndY": 5.0,
+            "LineWidth": 10.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton1",
+            "X": 97,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton2",
+            "X": 135,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton3",
+            "X": 173,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton4",
+            "X": 211,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton5",
+            "X": 249,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton6",
+            "X": 287,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton7",
+            "X": 325,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton8",
+            "X": 363,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton9",
+            "X": 401,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton10",
+            "X": 439,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton11",
+            "X": 477,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton12",
+            "X": 515,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton13",
+            "X": 553,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton14",
+            "X": 591,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton15",
+            "X": 629,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton16",
+            "X": 667,
+            "Y": 215,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton1_2",
+            "X": 97,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton2_2",
+            "X": 135,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton3_2",
+            "X": 173,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton4_2",
+            "X": 211,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton5_2",
+            "X": 249,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton6_2",
+            "X": 287,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton7_2",
+            "X": 325,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton8_2",
+            "X": 363,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton9_2",
+            "X": 401,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton10_2",
+            "X": 439,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton11_2",
+            "X": 477,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton12_2",
+            "X": 515,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton13_2",
+            "X": 553,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton14_2",
+            "X": 591,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton15_2",
+            "X": 629,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton16_2",
+            "X": 667,
+            "Y": 271,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton1_3",
+            "X": 97,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton2_3",
+            "X": 135,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton3_3",
+            "X": 173,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton4_3",
+            "X": 211,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton5_3",
+            "X": 249,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton6_3",
+            "X": 287,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton7_3",
+            "X": 325,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton8_3",
+            "X": 363,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton9_3",
+            "X": 401,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton10_3",
+            "X": 439,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton11_3",
+            "X": 477,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton12_3",
+            "X": 515,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton13_3",
+            "X": 553,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton14_3",
+            "X": 591,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton15_3",
+            "X": 629,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton16_3",
+            "X": 667,
+            "Y": 328,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton1_4",
+            "X": 97,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton2_4",
+            "X": 135,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton3_4",
+            "X": 173,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton4_4",
+            "X": 211,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton5_4",
+            "X": 249,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton6_4",
+            "X": 287,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton7_4",
+            "X": 325,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton8_4",
+            "X": 363,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton9_4",
+            "X": 401,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton10_4",
+            "X": 439,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton11_4",
+            "X": 477,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton12_4",
+            "X": 515,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton13_4",
+            "X": 553,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton14_4",
+            "X": 591,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton15_4",
+            "X": 629,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "StepButton16_4",
+            "X": 667,
+            "Y": 385,
+            "Width": 36,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_micro_outline_active.png"
+          },
+          {
+            "Type": "Slider",
+            "Name": "tmpSlider",
+            "X": 208,
+            "Y": 32,
+            "Width": 432,
+            "Height": 32,
+            "IsHorizontalSlider": true,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_track_large.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_filler_large.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_round_light.png",
+            "BackgroundX": 16,
+            "BackgroundY": 11,
+            "IndicatorMax": 400,
+            "ValueMax": 400,
+            "ValueMin": 30,
+            "InitValue": 120,
+            "Preset": "alternate_theme\\presets\\slider\\horizontal\\thick\\large_round.json"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "dispBPM",
+            "X": 158,
+            "Y": 38,
+            "Width": 39,
+            "Height": 24,
+            "TextId": "__SingleUse_KL3F",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_BLKD",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle1",
+            "X": 105,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt",
+            "Moveable": true
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle2",
+            "X": 143,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle3",
+            "X": 181,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle4",
+            "X": 219,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle5",
+            "X": 257,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle6",
+            "X": 295,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle7",
+            "X": 333,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle8",
+            "X": 371,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle9",
+            "X": 409,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle10",
+            "X": 447,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle11",
+            "X": 485,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle12",
+            "X": 523,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle13",
+            "X": 561,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle14",
+            "X": 599,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle15",
+            "X": 637,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "stepCircle16",
+            "X": 675,
+            "Y": 185,
+            "Width": 20,
+            "Height": 20,
+            "Color": {
+              "Red": 255,
+              "Green": 255
+            },
+            "CenterX": 10.0,
+            "CenterY": 10.0,
+            "Radius": 5.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Button",
+            "Name": "clear_button",
+            "X": 25,
+            "Y": 23,
+            "Width": 110,
+            "Height": 50,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_50_tiny_rounded_pressed.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_50_tiny_rounded_active.png",
+            "Preset": "alternate_theme\\presets\\button\\regular\\height_50\\tiny_rounded_active.json"
+          },
+          {
+            "Type": "Button",
+            "Name": "play_button",
+            "X": 667,
+            "Y": 23,
+            "Width": 110,
+            "Height": 50,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_50_tiny_rounded_pressed.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_50_tiny_rounded_action.png",
+            "Preset": "alternate_theme\\presets\\button\\regular\\height_50\\tiny_rounded_action.json"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1",
+            "X": 54,
+            "Y": 85,
+            "Width": 52,
+            "Height": 24,
+            "TextId": "__SingleUse_5EGR",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_1",
+            "X": 675,
+            "Y": 85,
+            "Width": 96,
+            "Height": 24,
+            "TextId": "__SingleUse_F1G2",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "stepHL1",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton1"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL1"
+            }
+          },
+          {
+            "InteractionName": "stepHL2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL2"
+            }
+          },
+          {
+            "InteractionName": "stepHL3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL3"
+            }
+          },
+          {
+            "InteractionName": "stepHL4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL4"
+            }
+          },
+          {
+            "InteractionName": "stepHL5",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton5"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL5"
+            }
+          },
+          {
+            "InteractionName": "stepHL6",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton6"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL6"
+            }
+          },
+          {
+            "InteractionName": "stepHL7",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton7"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL7"
+            }
+          },
+          {
+            "InteractionName": "stepHL8",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton8"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL8"
+            }
+          },
+          {
+            "InteractionName": "tmpChange",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "tmpSlider"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "tmpChange"
+            }
+          },
+          {
+            "InteractionName": "stepHL9",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton9"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL9"
+            }
+          },
+          {
+            "InteractionName": "stepHL10",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton10"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL10"
+            }
+          },
+          {
+            "InteractionName": "stepHL11",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton11"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL11"
+            }
+          },
+          {
+            "InteractionName": "stepHL12",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton12"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL12"
+            }
+          },
+          {
+            "InteractionName": "stepHL13",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton13"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL13"
+            }
+          },
+          {
+            "InteractionName": "stepHL14",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton14"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL14"
+            }
+          },
+          {
+            "InteractionName": "stepHL15",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton15"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL15"
+            }
+          },
+          {
+            "InteractionName": "stepHL16",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton16"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL16"
+            }
+          },
+          {
+            "InteractionName": "Interaction2",
+            "Trigger": {
+              "Type": "TriggerNone"
+            },
+            "Action": {
+              "Type": "ActionNone"
+            }
+          },
+          {
+            "InteractionName": "stepHL1_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton1_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL1_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL2_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton2_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL2_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL3_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton3_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL3_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL4_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton4_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL4_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL5_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton5_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL5_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL6_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton6_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL6_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL7_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton7_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL7_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL8_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton8_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL8_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL9_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton9_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL9_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL10_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton10_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL10_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL11_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton11_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL11_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL12_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton12_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL12_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL13_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton13_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL13_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL14_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton14_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL14_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL15_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton15_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL15_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL16_2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton16_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL16_2"
+            }
+          },
+          {
+            "InteractionName": "stepHL1_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton1_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL1_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL2_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton2_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL2_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL3_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton3_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL3_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL4_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton4_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL4_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL5_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton5_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL5_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL6_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton6_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL6_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL7_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton7_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL7_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL8_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton8_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL8_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL9_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton9_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL9_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL10_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton10_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL10_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL11_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton11_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL11_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL12_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton12_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL12_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL13_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton13_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL13_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL14_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton14_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL14_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL15_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton15_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL15_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL16_3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton16_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL16_3"
+            }
+          },
+          {
+            "InteractionName": "stepHL1_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton1_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL1_4"
+            }
+          },
+          {
+            "InteractionName": "stepHL2_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton2_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL2_4"
+            }
+          },
+          {
+            "InteractionName": "stepHL3_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton3_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL3_4"
+            }
+          },
+          {
+            "InteractionName": "stepHL4_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton4_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL4_4"
+            }
+          },
+          {
+            "InteractionName": "stepHL5_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton5_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL5_4"
+            }
+          },
+          {
+            "InteractionName": "stepHL6_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton6_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL6_4"
+            }
+          },
+          {
+            "InteractionName": "stepHL7_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton7_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL7_4"
+            }
+          },
+          {
+            "InteractionName": "stepHL8_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton8_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL8_4"
+            }
+          },
+          {
+            "InteractionName": "stepHL9_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton9_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL9_4"
+            }
+          },
+          {
+            "InteractionName": "stepHL10_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton10_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL10_4"
+            }
+          },
+          {
+            "InteractionName": "stepHL11_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton11_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL11_4"
+            }
+          },
+          {
+            "InteractionName": "stepHL12_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton12_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL12_4"
+            }
+          },
+          {
+            "InteractionName": "stepHL13_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton13_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL13_4"
+            }
+          },
+          {
+            "InteractionName": "stepHL14_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton14_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL14_4"
+            }
+          },
+          {
+            "InteractionName": "stepHL15_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton15_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL15_4"
+            }
+          },
+          {
+            "InteractionName": "stepHL16_4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "StepButton16_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "stepHL16_4"
+            }
+          },
+          {
+            "InteractionName": "allclear",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "clear_button"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "allclear"
+            }
+          },
+          {
+            "InteractionName": "play_stop",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "play_button"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "play_stop"
+            }
+          }
+        ]
+      }
+    ],
+    "CustomContainerDefinitions": [],
+    "Name": "StepSeq",
+    "Resolution": {
+      "Width": 800,
+      "Height": 480
+    },
+    "SelectedColorDepth": 16,
+    "StartupScreenName": "Screen1",
+    "SelectedStartupLanguage": "GB",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "UIPath": ".",
+    "AvailableColorDepths": [
+      16
+    ],
+    "AvailableLCDs": {
+      "24": "LCDGPU2D",
+      "16": "LCDGPU2D"
+    },
+    "AvailableSections": [
+      "ExtFlashSection",
+      "IntFlashSection"
+    ],
+    "AvailableResolutions": [
+      {
+        "Width": 800,
+        "Height": 480
+      }
+    ],
+    "PhysicalButtons": [
+      {
+        "Key": 1,
+        "Name": "USER_BUTTON"
+      }
+    ],
+    "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
+    "PostGenerateCommand": "touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
+    "PostGenerateTargetCommand": "touchgfx update_project",
+    "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
+    "RunSimulatorCommand": "build\\bin\\simulator.exe",
+    "CompileTargetCommand": "make -f ../gcc/Makefile -j8",
+    "FlashTargetCommand": "make -f ../gcc/Makefile flash",
+    "FlashTargetIntCommandOverride": "make -f ../gcc/Makefile intflash",
+    "LandscapeSkinX": 0,
+    "LandscapeSkinY": 0,
+    "PortraitSkinX": 0,
+    "PortraitSkinY": 0,
+    "DisplayOrientation": "Landscape",
+    "Family": "STM32U5",
+    "SubFamily": "STM32U5F9/5G9",
+    "Toolchain": "STM32CubeIDE",
+    "Platform": "m33",
+    "ProjectFile": "../STM32U5G9J-DK2.ioc",
+    "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
+    "OptionalComponents": [
+      "GPU2D"
+    ],
+    "AdditionalFeatures": [
+      "GPU2DVector",
+      "VectorFonts",
+      "Video"
+    ]
+  },
+  "Version": "4.23.2",
+  "CreatedBy": "4.23.2"
+}
