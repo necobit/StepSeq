@@ -1,3 +1,8 @@
+# TouchGFX GUI チャレンジ用プロジェクト
+D2-D5に4段分のシーケンスデータが出力される
+
+
+
 # STM32U5G9J-DK2 TBS
 
 The default IDE is set to STM32CubeIDE, to change IDE open the STM32U5G9J-DK2.ioc with CubeMX and select from the supported IDEs (EWARM, MDK-ARM and STM32CubeIDE). Supports flashing of the STM32U5G9J-DK2 board directly from TouchGFX Designer using GCC and STM32CubeProgrammer. Flashing the board requires STM32CubeProgrammer which can be downloaded from the ST webpage.
